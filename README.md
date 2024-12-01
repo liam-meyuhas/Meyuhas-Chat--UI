@@ -1,2 +1,2 @@
-# Meyuhas-Chat--UI
+# Meyuhas-Chat-UI
 Chat UI code
